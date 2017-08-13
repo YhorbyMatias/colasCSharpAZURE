@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7EBB5B92-83E3-4B93-ADB7-2BE764089A29}|Default">
+  <MonoDevelop.Ide.ItemProperties.ColasCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ColasCSharp/app.config">
+    <Files>
+      <File FileName="ColasCSharp/Program.cs" Line="14" Column="1" />
+      <File FileName="ColasCSharp/app.config" Line="7" Column="235" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
